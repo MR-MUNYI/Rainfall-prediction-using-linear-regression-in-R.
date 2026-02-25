@@ -1,0 +1,2 @@
+# Rainfall-prediction-using-linear-regression-in-R.
+The project focuses on predicting rainfall amounts using linear regression using R. The data was imported from excel and cleaned before analysis. Exploratory Data Analysis (EDA) was done to understand the trends and relationship between rainfall and temperature The objective was to demonstrate statistical modelling applied to real-world environment
